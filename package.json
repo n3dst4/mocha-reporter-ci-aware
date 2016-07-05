@@ -1,6 +1,6 @@
 {
   "name": "mocha-reporter-teamcity-or-spec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mocha reporters that revert to CI-specific output when needed",
   "main": "__build/mocha-reporter-teamcity-or-spec.js",
   "repository": "https://github.com/n3dst4/mocha-reporter-teamcity-or-spec",
