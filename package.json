@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Mocha reporters that revert to CI-specific output when needed",
   "main": "__build/mocha-reporter-teamcity-or-spec.js",
+  "repository": "https://github.com/n3dst4/mocha-reporter-teamcity-or-spec",
   "scripts": {
     "test": "mocha",
     "prepublish": "babel src --out-dir __build --source-maps inline",
